@@ -7,3 +7,5 @@ Projeto de um suporte para o relé de 5 pinos que pode ser usado em uma protoboa
 <a href="https://imgur.com/defpcHY"><img src="https://imgur.com/defpcHY.jpg" title="source: imgur.com" /></a>
 
 <a href="https://imgur.com/Gs5N9bA"><img src="https://imgur.com/Gs5N9bA.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/CYwaXv4"><img src="https://imgur.com/CYwaXv4.jpg" title="source: imgur.com" /></a>
